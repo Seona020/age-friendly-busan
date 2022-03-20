@@ -1,5 +1,6 @@
 # age-friendly-busan
 ## 고령친화 도시 소개
+![image](https://user-images.githubusercontent.com/101608308/159144729-44d62aaa-68bd-40f6-a3d6-01bc81ba21f0.png)
 
 ## 고령친화 조성의 필요성
 > 전략 : 고령 친화 도시 조성의 필요성
