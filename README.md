@@ -12,5 +12,4 @@
 > - [전국무료급식표준데이터](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=OA_SS00019&contentId=10)
 > - [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=OA_SS00034&contentId=10)
 
-히히
-근데 나는 여기서 뭘 할 수 있는지 모르는데 뭘 하지? 일단 커밋
+저 그 번역하는 거 말고....... 약간 자료조사해서 머 하느 ㄴ거 그거머죠... 그거하려구요 .........웹툰으로 할지는모르갯지만 ...... 
